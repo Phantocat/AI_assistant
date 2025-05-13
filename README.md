@@ -83,7 +83,7 @@ Cсылка на AI-асситента: https://t.me/AImarketologistBot
    - *Вопрос*: "Какие каналы продвижения лучше всего подходят для моего бизнеса?"  
    - *Ответ*: "Для вашего случая рекомендую рассмотреть следующие каналы: таргетированная реклама в соцсетях и SEO. Давайте обсудим это подробнее на нашей встрече."
 
-![Скриншот повдения ассистента](https://raw.githubusercontent.com/Phantocat/AI_assistant/refs/heads/main/photo_2025-05-13_17-38-09.jpg)
+![Скриншот повдения ассистента](https://raw.githubusercontent.com/Phantocat/AI_assistant/refs/heads/main/photo_2025-05-13_17-38-09.jpg) ![Скриншот повдения ассистента](https://raw.githubusercontent.com/Phantocat/AI_assistant/refs/heads/main/photo_2025-05-13_17-38-09.jpg)
 
 ---
 
